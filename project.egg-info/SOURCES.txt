@@ -1,0 +1,13 @@
+setup.py
+jijia/__init__.py
+jijia/items.py
+jijia/middlewares.py
+jijia/pipelines.py
+jijia/settings.py
+jijia/spiders/__init__.py
+jijia/spiders/jijia_spider.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
